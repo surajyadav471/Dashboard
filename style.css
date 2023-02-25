@@ -1,0 +1,56 @@
+.container{
+    position: absolute;
+    width: 2305px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+    color: white;
+    background: #000000;
+    font-size: 30px;
+    padding: 1px;
+}
+
+
+.form{
+    position: absolute;
+    width: 165px;
+    height: 39px;
+    left: 31px;
+    top: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.Add{
+    box-sizing: border-box;
+position: absolute;
+width: 275px;
+height: 38px;
+left: 31px;
+top: 107px;
+
+background: #000000;
+border: 1px solid #000000;
+
+position: absolute;
+width: 250px;
+height: 30px;
+left: 64px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+
+
+
